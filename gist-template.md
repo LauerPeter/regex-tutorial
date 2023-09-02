@@ -100,4 +100,4 @@ The boundaries represented in our regex pattern are the `^` and `$`. They ensure
 
 Peter Lauer - Student at the University of Minnesota's Full-Stack Bootcamp
 
-GitHub URL: [Your GitHub Profile URL]
+GitHub URL: https://github.com/LauerPeter
